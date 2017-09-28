@@ -6,7 +6,9 @@ To get started, check out the repository and inspect the code.
 ***
 ### Getting started
 Frst step ,i just research how to use URL with io 
-and the result is 
+here 
+https://sarahaj92.github.io/frontend-nanodegree-mobile-portfolio/
+<br>The result is<br> 
 <br>95 of 100 for Mobile<br> 
 <br>[Mobile ](https://i.imgur.com/5uo32Uv.png)<br>
 <br>97 of 100 for desktop<br>
