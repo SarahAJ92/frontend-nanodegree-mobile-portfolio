@@ -7,10 +7,10 @@ To get started, check out the repository and inspect the code.
 ### Getting started
 Frst step ,i just research how to use URL with io 
 and the result is 
-95 of 100 for Mobile 
-97 of 100 for desktop
-[Mobile ](https://i.imgur.com/5uo32Uv.png)
-[desktop](https://i.imgur.com/ERVyhS4.png)
+<br>95 of 100 for Mobile<br> 
+<br>[Mobile ](https://i.imgur.com/5uo32Uv.png)<br>
+<br>97 of 100 for desktop<br>
+<br>[desktop](https://i.imgur.com/ERVyhS4.png)<br>
 ***
 ### Optimization Tips and Tricks has been done
 * Inline CSS inside HTML file 
