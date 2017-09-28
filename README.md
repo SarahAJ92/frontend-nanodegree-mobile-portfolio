@@ -5,8 +5,10 @@ Your challenge, if you wish to accept it (and we sure hope you will), is to opti
 To get started, check out the repository and inspect the code.
 
 ### Getting started
-i just research how to use URL with io
-
+Frst step ,i just research how to use URL with io 
+and the result is 
+[Imgur](https://i.imgur.com/5uo32Uv.png)
+[Imgur](https://i.imgur.com/ERVyhS4.png)
 
 ### Optimization Tips and Tricks has been done
 * Inline CSS inside HTML file 
